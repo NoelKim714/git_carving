@@ -17,4 +17,7 @@ git 변수문법으로 주소 짧게
 -> git push -u origin main // -u 는 주소를 기억해라
 
 다시한번 히스토리를 위해 
+
+git pull 원격 -> 로컬저장소로 = git fetch(원격저장소 신규 commit 가져와) + git merge(내 브랜치에 merge)
+
  
