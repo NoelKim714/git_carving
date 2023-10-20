@@ -5,3 +5,6 @@
 2. 협업 가능
 
 => 원격 저장소
+
+github.com 은 기본 저장소 이름으로 main을 강요
+-> git branch -M main
