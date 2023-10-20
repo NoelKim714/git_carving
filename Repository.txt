@@ -20,3 +20,4 @@ git 변수문법으로 주소 짧게
 
 git pull 원격 -> 로컬저장소로 = git fetch(원격저장소 신규 commit 가져와) + git merge(내 브랜치에 merge)
 
+alkjd
